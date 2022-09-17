@@ -1,2 +1,2 @@
 # jwt-demo
-Tutorial on how to use JWT using spring boot / spring security
+Tutorial on how to use JWT (JSON Web token for authentication) using spring boot / spring security
